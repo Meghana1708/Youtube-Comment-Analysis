@@ -21,13 +21,6 @@
 | `Untitled16.ipynb` | Preprocessing, sentiment training, and basic metrics |
 | `Untitled25.ipynb` | Final BERT model evaluation and visualization |
 
-## 📊 Sample Visuals
-
-
-![Confusion Matrix Sample](visuals/confusion_matrix.png)
-![F1 Score per Class](visuals/f1_score.png)
-
-</details>
 
 📌 How to Run
 
